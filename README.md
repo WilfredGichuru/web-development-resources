@@ -206,22 +206,22 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website |
 | ------- |
 | https://fontawesome.com |  
-| https://flaticon.com |  
-| https://icons8.com |  
+| https://flaticon.com | 
+| https://icons8.com | Good
 | https://iconfinder.com |  
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
 | https://heroicons.com |
-| https://boxicons.com |
+| https://boxicons.com | ok
 | https://css.gg/ |
-| https://lineicons.com/ |
+| https://lineicons.com/ | ok
 | https://icons.eosdesignsystem.com/ |
 | https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
 | https://feathericons.com |
-| https://svgrepo.com/ |
+| https://svgrepo.com/ | Good
 | https://iconic.app |
 | https://icomoon.io/ |
 | https://iconscout.com/unicons |
