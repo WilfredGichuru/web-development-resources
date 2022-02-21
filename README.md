@@ -163,6 +163,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
+| https://nowhiteboard.org/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -228,6 +229,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://holasvg.com/icons |
 | https://fontello.com/ |
 | https://fontastic.me/ |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -273,6 +275,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -428,6 +431,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -523,6 +527,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
